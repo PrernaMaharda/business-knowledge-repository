@@ -1,0 +1,14 @@
+[
+    {
+        "supplier_id": "S001",
+        "name": "Tech Suppliers Ltd",
+        "product_category": "Electronics",
+        "rating": 4.5
+    },
+    {
+        "supplier_id": "S002",
+        "name": "Accessory World",
+        "product_category": "Accessories",
+        "rating": 4.2
+    }
+]
