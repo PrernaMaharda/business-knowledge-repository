@@ -1,0 +1,14 @@
+[
+    {
+        "customer_id": "C001",
+        "name": "Rahul Sharma",
+        "type": "Regular",
+        "city": "Delhi"
+    },
+    {
+        "customer_id": "C002",
+        "name": "Ananya Singh",
+        "type": "Premium",
+        "city": "Delhi"
+    }
+]
