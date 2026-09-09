@@ -1,0 +1,27 @@
+[
+    {
+        "rule_id": "R001",
+        "condition": "stock >= order_quantity",
+        "decision": "Order can be accepted"
+    },
+    {
+        "rule_id": "R002",
+        "condition": "stock < order_quantity",
+        "decision": "Order should be placed on hold"
+    },
+    {
+        "rule_id": "R003",
+        "condition": "stock <= reorder_level",
+        "decision": "Generate restocking recommendation"
+    },
+    {
+        "rule_id": "R004",
+        "condition": "payment_status == successful",
+        "decision": "Confirm order"
+    },
+    {
+        "rule_id": "R005",
+        "condition": "payment_status == failed",
+        "decision": "Keep order pending"
+    }
+]
