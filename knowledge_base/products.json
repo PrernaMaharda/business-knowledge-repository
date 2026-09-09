@@ -1,0 +1,20 @@
+[
+    {
+        "product_id": "P001",
+        "name": "Laptop",
+        "category": "Electronics",
+        "price": 55000
+    },
+    {
+        "product_id": "P002",
+        "name": "Wireless Mouse",
+        "category": "Accessories",
+        "price": 800
+    },
+    {
+        "product_id": "P003",
+        "name": "Keyboard",
+        "category": "Accessories",
+        "price": 1500
+    }
+]
